@@ -208,6 +208,6 @@ RupiahDetection/
 
 ## 9. Authors & Acknowledgments
 
-* **Lead Developer & AI Engineer:** [Mahfudin Adnan](https://www.nandev.my.id/) (`@AdnNyx`) — Informatics Engineering, Universitas Pancasakti Tegal
+* **Lead Developer & AI Engineer:** [Mahfudin Adnan](https://www.nandev.my.id/) (`@AdnNyx`) Informatics Engineering, Universitas Pancasakti Tegal
 * **Project Contributors:** Amelia Laura Ardianti, Erza Rifa Nihayah, Nofal Azhar Safriansyah
 * **Dataset Reference:** Derived from [`rupiah-banknotes-dataset`](https://github.com/anwarpage/rupiah-banknotes-dataset) (Anwar et al., 2025) supplemented with local hardware calibration captures.
