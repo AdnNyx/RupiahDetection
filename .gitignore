@@ -1,0 +1,26 @@
+# Python & Model Checkpoints
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+yolo11n.pt
+**/weights/last.pt
+
+# Dataset
+dataset/
+**/train/images/
+**/train/labels/
+**/val/images/
+**/val/labels/
+
+# Vue / Node.js
+node_modules/
+dist/
+.env
+.env.local
+
+# OS & Editor
+.vscode/
+.DS_Store
+Thumbs.db
